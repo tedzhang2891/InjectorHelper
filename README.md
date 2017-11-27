@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to InjectorHelper Pages
 
-You can use the [editor on GitHub](https://github.com/tedzhang2891/InjectorHelper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Injector Helper** is a core components that interact with different versions of iTunes. Because the changes to the iTunes version will cause the Inject logic to change different with previous version, so the **Injector Helper** and iTunes iteration cycles are the same.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to use
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Injector Helper** exposes a set of interfaces for client to use and all interations with iTunes are done internally, which are transparent to the client.
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +24,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tedzhang2891/InjectorHelper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out project [wiki](https://github.com/tedzhang2891/InjectorHelper/wiki) or [contact me](tedzhang2891@126.com) and I’ll help you sort it out.
